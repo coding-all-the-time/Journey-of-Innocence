@@ -11,8 +11,8 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
+  - Background
+  - decorations
   - 
   - 
   - 
@@ -40,4 +40,19 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: backgournd
+    uniqueID: 4043471521
+    locked: 0
+  - name: decoration
+    uniqueID: 2729888855
+    locked: 0
+  - name: New Layer 3
+    uniqueID: 1159695161
+    locked: 0
+  - name: New Layer 4
+    uniqueID: 1040791247
+    locked: 0
+  - name: role
+    uniqueID: 1631119057
     locked: 0
